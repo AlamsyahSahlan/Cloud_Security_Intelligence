@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Database
+backend/smk_admin.db
+
+# Environment
+backend/.env
+
+# Build
+frontend/dist/
+blockchain/artifacts/
+blockchain/cache/
+blockchain/typechain-types/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+backend/uploads/
