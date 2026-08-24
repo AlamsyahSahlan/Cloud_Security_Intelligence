@@ -69,46 +69,6 @@ Sistem Administrasi SMK (Sekolah Menengah Kejuruan) berbasis web yang mengimplem
   |  smk_admin.db|          |  localhost:8545    |
   +--------------+          +--------------------+
 ```
-
----
-
-## Screenshot Aplikasi
-
-### Halaman Login
-![Login](screenshots/login.png)
-
-### Dashboard Utama
-![Dashboard](screenshots/dashboard.png)
-
-### WAF Dashboard - Monitoring Serangan Real-time
-![WAF Dashboard](screenshots/waf-dashboard.png)
-
-### Simulasi Serangan SQL Injection - Diblokir WAF
-![SQL Injection Blocked](screenshots/waf-sqli-blocked.png)
-
-### Simulasi Serangan XSS - Diblokir WAF
-![XSS Blocked](screenshots/waf-xss-blocked.png)
-
-### MFA Setup - QR Code & Google Authenticator
-![MFA Setup](screenshots/mfa-setup.png)
-
-### RBAC - Perbandingan Akses Admin vs Siswa
-![RBAC](screenshots/rbac-comparison.png)
-
-### Data Siswa - Enkripsi AES-256 pada Data Sensitif
-![Encryption](screenshots/encryption-aes256.png)
-
-### Sertifikat & Ijazah Digital - Blockchain Transaction
-![Certificates](screenshots/certificates-blockchain.png)
-
-### Portal Verifikasi Publik - Ijazah Terverifikasi
-![Verification](screenshots/verification-portal.png)
-
-### Audit Log - Pencatatan Aktivitas Sistem
-![Audit Log](screenshots/audit-log.png)
-
----
-
 ## Fitur Keamanan
 
 ### 1. Web Application Firewall (WAF) - 5 Layer Protection
@@ -175,7 +135,7 @@ function verifyCertificate(
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/cloud-security-architecture.git
+git clone https://github.com/AlamsyahSahlan/cloud-security-architecture.git
 cd cloud-security-architecture
 
 # 2. Install dependencies
